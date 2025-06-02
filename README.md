@@ -48,9 +48,3 @@ Atualmente focado em:
 - 📧 Email: **programamichel@gmail.com**
 - 💼 LinkedIn: [www.linkedin.com/in/devmichelferreira)]
 - 💬 Discord: `michas_baiano`
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile+Views" alt="Profile Views" />
-</p>
