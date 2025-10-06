@@ -2,7 +2,7 @@
 <h3 align="center">aka Baiano · Backend Developer & Game Dev Enthusiast</h3>
 
 <p align="center">
-  🎓 Estudante de ADS no IFPI · 3º Módulo<br>
+  🎓 Estudante de ADS no IFPI · 4º Módulo<br>
   🧠 Apaixonado por lógica, sistemas e criação de experiências interativas<br>
   🚀 Buscando uma chance real na área para mostrar meu potencial
 </p>
