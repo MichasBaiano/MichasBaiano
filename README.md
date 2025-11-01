@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://michasbaiano.github.io/Meu-Portfolio/" target="_blank" rel="noopener">
-    <img src="https://michasbaiano.github.io/Meu-Portifolio/assets/img/Foto-Projetos/project_showcase.png" alt="Prévia do Portfólio de Michel Júnior" width="80%">
+    <img src="https://michasbaiano.github.io/Meu-Portifolio/assets/img/Foto-Projetos/Portfolio.png" alt="Prévia do Portfólio de Michel Júnior" width="80%">
   </a>
 </p>
 
