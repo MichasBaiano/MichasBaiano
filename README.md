@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://michasbaiano.github.io/meu-portifolio/" target="_blank" rel="noopener">
-    <img src="https://michasbaiano.github.io/meu-portifolio/assets/img/Foto-Projetos/project_showcase.png" alt="Prévia do Portfólio de Michel Júnior" width="80%">
+  <a href="https://michasbaiano.github.io/Meu-Portfolio/" target="_blank" rel="noopener">
+    <img src="https://michasbaiano.github.io/Meu-Portifolio/assets/img/Foto-Projetos/project_showcase.png" alt="Prévia do Portfólio de Michel Júnior" width="80%">
   </a>
 </p>
 
@@ -67,7 +67,7 @@ Estes são os 4 projetos principais apresentados no meu portfólio.
 
 | Projeto | Descrição | Links |
 | :--- | :--- | :--- |
-| **🎮 Brilho Perdido** | Um RPG 2D em **Unity/C#** premiado (🥈 2º lugar no OPALATECH IV) e inspirado na mitologia de Pedro II (PI). | [**Ver Projeto**](https://michasbaiano.github.io/meu-portifolio/projetos/brilhoperdido/brilhoperdido.html) · [**Ver Código**](https://github.com/MichasBaiano/Brilho-Perdido) |
-| **💰 Capelão.Bet** | Um sistema web de apostas completo, construído com **Python (Flask)**, arquitetura **MVC** e banco de dados **SQLite**. | [**Ver Projeto**](https://michasbaiano.github.io/meu-portifolio/projetos/capelaobet/capelaobet.html) · [**Ver Código**](https://github.com/sidnasc/capelao.bet) |
-| **🚚 FazFrete** | Projeto de app mobile (prototipado no **Figma**) para gerenciamento de fretes, com arquitetura planejada em **React Native** e **Node.js**. | [**Ver Projeto**](https://michasbaiano.github.io/meu-portifolio/projetos/fazfrete/fazfrete.html) · [**Ver Figma**](https://www.figma.com/design/mQmTYBik0wRikSh3n9FpvB/fretesP2?node-id=0-1&t=G4DmDjF3KcYyHNBB-1) |
-| **🗳️ Urna Eletrônica** | Simulação funcional da urna brasileira em **Java**, aplicando **POO** e a interface gráfica **Java Swing**. | [**Ver Projeto**](https://michasbaiano.github.io/meu-portifolio/projetos/urnaeleitoral/urna.html) · [**Ver Código**](https://github.com/RecantoDoJohn/ProjetoUrnaEletronica) |
+| **🎮 Brilho Perdido** | Um RPG 2D em **Unity/C#** premiado (🥈 2º lugar no OPALATECH IV) e inspirado na mitologia de Pedro II (PI). | [**Ver Projeto**](https://michasbaiano.github.io/Meu-Portifolio/projetos/brilhoperdido/brilhoperdido.html) · [**Ver Código**](https://github.com/MichasBaiano/Brilho-Perdido) |
+| **💰 Capelão.Bet** | Um sistema web de apostas completo, construído com **Python (Flask)**, arquitetura **MVC** e banco de dados **SQLite**. | [**Ver Projeto**](https://michasbaiano.github.io/Meu-Portifolio/projetos/capelaobet/capelaobet.html) · [**Ver Código**](https://github.com/sidnasc/capelao.bet) |
+| **🚚 FazFrete** | Projeto de app mobile (prototipado no **Figma**) para gerenciamento de fretes, com arquitetura planejada em **React Native** e **Node.js**. | [**Ver Projeto**](https://michasbaiano.github.io/Meu-Portifolio/projetos/fazfrete/fazfrete.html) · [**Ver Figma**](https://www.figma.com/design/mQmTYBik0wRikSh3n9FpvB/fretesP2?node-id=0-1&t=G4DmDjF3KcYyHNBB-1) |
+| **🗳️ Urna Eletrônica** | Simulação funcional da urna brasileira em **Java**, aplicando **POO** e a interface gráfica **Java Swing**. | [**Ver Projeto**](https://michasbaiano.github.io/Meu-Portifolio/projetos/urnaeleitoral/urna.html) · [**Ver Código**](https://github.com/RecantoDoJohn/ProjetoUrnaEletronica) |
