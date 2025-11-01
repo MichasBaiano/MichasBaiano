@@ -5,12 +5,12 @@
 
 <p align="center">
   <strong>Bem-vindo ao meu perfil!</strong> Todo o meu trabalho, projetos e habilidades estão compilados no meu portfólio interativo. <br/>
-  Clique na imagem abaixo para visitar o site ao vivo:
+  Clique no botão abaixo para visitar o site ao vivo:
 </p>
 
 <p align="center">
-  <a href="https://michasbaiano.github.io/Meu-Portfolio/" target="_blank" rel="noopener">
-    <img src="https://michasbaiano.github.io/Meu-Portifolio/assets/img/Foto-Projetos/Portfolio.png" alt="Prévia do Portfólio de Michel Júnior" width="80%">
+  <a href="https://michasbaiano.github.io/meu-portifolio/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Acesse%20o%20Portfólio%20Completo-007BFF?style=for-the-badge&logo=github-pages&logoColor=white" alt="Link para o Portfólio ao Vivo">
   </a>
 </p>
 
