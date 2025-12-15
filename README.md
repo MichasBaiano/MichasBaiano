@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://michasbaiano.github.io/meu-portifolio/" target="_blank" rel="noopener">
+  <a href="https://michasbaiano.github.io/Meu-Portfolio/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Acesse%20o%20Portfólio%20Completo-007BFF?style=for-the-badge&logo=github-pages&logoColor=white" alt="Link para o Portfólio ao Vivo">
   </a>
 </p>
